@@ -19,4 +19,4 @@ Estoy en mi 4to año en la carrera, con mucha suerte el año que viene seria mi 
 
 Me copio de Lucho y les paso una foto mia y de mi gordo que me saque recien:
 
-![Foto con mi perro Lucas](foto_lucas.jpg)
+<img src="foto_lucas.jpg" alt="Foto con mi perro Lucas" width="350">
